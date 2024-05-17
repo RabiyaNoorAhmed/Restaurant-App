@@ -1,0 +1,462 @@
+[
+    
+        {
+            "_id": "1",
+            "name": "Hamburger",
+            "recipe": "Juicy beef patty, lettuce, tomato, onion, pickles, ketchup, and mustard on a sesame seed bun.",
+            "image": "../src/assets/images/burger.jpg",
+            "category": "Burger",
+            "price": 4.99
+        },
+        {
+            "_id": "2",
+            "name": "Cheeseburger",
+            "recipe": "Same as hamburger with an additional slice of cheese.",
+            "image": "../src/assets/images/burger.jpg",
+            "category": "Burger",
+            "price": 5.49
+        },
+        {
+            "_id": "3",
+            "name": "Chicken Nuggets",
+            "recipe": "Bite-sized pieces of tender chicken breast, coated in seasoned breadcrumbs.",
+            "image": "../src/assets/images/chicken.jpg",
+            "category": "Chicken",
+            "price": 3.99
+        },
+        {
+            "_id": "4",
+            "name": "French Fries",
+            "recipe": "Crispy golden potato fries lightly seasoned with salt.",
+            "image": "../src/assets/images/sides.jpg",
+            "category": "Sides",
+            "price": 2.49
+        },
+        {
+            "_id": "5",
+            "name": "Chicken Sandwich",
+            "recipe": "Grilled or crispy chicken breast with lettuce, tomato, and mayo on a toasted bun.",
+            "image": "../src/assets/images/chicken.jpg",
+            "category": "Chicken",
+            "price": 5.99
+        },
+        {
+            "_id": "6",
+            "name": "BBQ Ribs",
+            "recipe": "Tender, slow-cooked pork ribs slathered in smoky BBQ sauce.",
+            "image": "../src/assets/images/ribs.jpg",
+            "category": "Specialty",
+            "price": 9.99
+        },
+        {
+            "_id": "7",
+            "name": "Grilled Cheese Sandwich",
+            "recipe": "Toasted bread with melted American cheese.",
+            "image": "../src/assets/images/sandwich.jpg",
+            "category": "Sandwich",
+            "price": 3.49
+        },
+        {
+            "_id": "8",
+            "name": "Hot Dog",
+            "recipe": "Juicy beef hot dog served in a soft bun with your choice of toppings.",
+            "image": "../src/assets/images/special.jpg",
+            "category": "Specialty",
+            "price": 3.99
+        },
+        {
+            "_id": "9",
+            "name": "Onion Rings",
+            "recipe": "Crispy battered onion rings, perfect for dipping.",
+            "image": "../src/assets/images/sides.jpg",
+            "category": "Sides",
+            "price": 2.99
+        },
+        {
+            "_id": "10",
+            "name": "Milkshake",
+            "recipe": "Creamy vanilla milkshake topped with whipped cream and a cherry.",
+            "image": "../src/assets/images/drinks.jpg",
+            "category": "Beverages",
+            "price": 4.49
+        },
+        {
+            "_id": "11",
+            "name": "Pizza Slice",
+            "recipe": "Classic cheese pizza slice with marinara sauce on a thin crust.",
+            "image": "../src/assets/images/pizza.jpg",
+            "category": "Popular",
+            "price": 2.99
+        },
+        {
+            "_id": "12",
+            "name": "Taco",
+            "recipe": "Soft or crispy taco shell filled with seasoned ground beef, lettuce, cheese, and salsa.",
+            "image": "../src/assets/images/tacos.jpg",
+            "category": "Mexican",
+            "price": 3.49
+        },
+        {
+            "_id": "13",
+            "name": "Burrito",
+            "recipe": "Flour tortilla filled with rice, beans, cheese, meat, and salsa.",
+            "image": "../src/assets/images/chicken.jpg",
+            "category": "Popular",
+            "price": 5.99
+        },
+        {
+            "_id": "14",
+            "name": "Nachos",
+            "recipe": "Crispy tortilla chips topped with melted cheese, jalapenos, sour cream, and guacamole.",
+            "image": "../src/assets/images/tacos.jpg",
+            "category": "Mexican",
+            "price": 4.99
+        },
+        {
+            "_id": "15",
+            "name": "Ice Cream Cone",
+            "recipe": "Classic vanilla ice cream in a sugar cone.",
+            "image": "../src/assets/images/dessert.jpg",
+            "category": "Desserts",
+            "price": 2.49
+        },
+        {
+            "_id": "16",
+            "name": "Chicken Tenders",
+            "recipe": "Breaded chicken tenderloins served with dipping sauce.",
+            "image": "../src/assets/images/fish.jpg",
+            "category": "Popular",
+            "price": 4.99
+        },
+        {
+            "_id": "17",
+            "name": "Fish Sandwich",
+            "recipe": "Battered fish fillet with lettuce, tartar sauce, and a slice of cheese on a bun.",
+            "image": "../src/assets/images/sandwich.jpg",
+            "category": "Popular",
+            "price": 6.49
+        },
+        {
+            "_id": "18",
+            "name": "Fish and Chips",
+            "recipe": "Crispy battered fish served with french fries and tartar sauce.",
+            "image": "../src/assets/images/fish.jpg",
+            "category": "Fish",
+            "price": 8.99
+        },
+        {
+            "_id": "19",
+            "name": "Chocolate Shake",
+            "recipe": "Rich chocolate milkshake topped with whipped cream and chocolate syrup.",
+            "image": "/../src/assets/images/dessert.jpg",
+            "category": "Popular",
+            "price": 4.49
+        },
+        {
+            "_id": "20",
+            "name": "Hamburger",
+            "recipe": "Juicy beef patty, lettuce, tomato, onion, pickles, ketchup, and mustard on a sesame seed bun.",
+            "image": "../src/assets/images/burger.jpg",
+            "category": "Burger",
+            "price": 4.99
+        },
+        {
+            "_id": "21",
+            "name": "Cheeseburger",
+            "recipe": "Same as hamburger with an additional slice of cheese.",
+            "image": "../src/assets/images/burger.jpg",
+            "category": "Burger",
+            "price": 5.49
+        },
+        {
+            "_id": "22",
+            "name": "Chicken Nuggets",
+            "recipe": "Bite-sized pieces of tender chicken breast, coated in seasoned breadcrumbs.",
+            "image": "../src/assets/images/chicken.jpg",
+            "category": "Chicken",
+            "price": 3.99
+        },
+        {
+            "_id": "23",
+            "name": "French Fries",
+            "recipe": "Crispy golden potato fries lightly seasoned with salt.",
+            "image": "../src/assets/images/sides.jpg",
+            "category": "Sides",
+            "price": 2.49
+        },
+        {
+            "_id": "24",
+            "name": "Chicken Sandwich",
+            "recipe": "Grilled or crispy chicken breast with lettuce, tomato, and mayo on a toasted bun.",
+            "image": "../src/assets/images/chicken.jpg",
+            "category": "Chicken",
+            "price": 5.99
+        },
+        {
+            "_id": "25",
+            "name": "BBQ Ribs",
+            "recipe": "Tender, slow-cooked pork ribs slathered in smoky BBQ sauce.",
+            "image": "../src/assets/images/ribs.jpg",
+            "category": "Specialty",
+            "price": 9.99
+        },
+        {
+            "_id": "26",
+            "name": "Grilled Cheese Sandwich",
+            "recipe": "Toasted bread with melted American cheese.",
+            "image": "../src/assets/images/sandwich.jpg",
+            "category": "Sandwich",
+            "price": 3.49
+        },
+        {
+            "_id": "27",
+            "name": "Hot Dog",
+            "recipe": "Juicy beef hot dog served in a soft bun with your choice of toppings.",
+            "image": "../src/assets/images/special.jpg",
+            "category": "Specialty",
+            "price": 3.99
+        },
+        {
+            "_id": "28",
+            "name": "Onion Rings",
+            "recipe": "Crispy battered onion rings, perfect for dipping.",
+            "image": "../src/assets/images/sides.jpg",
+            "category": "Sides",
+            "price": 2.99
+        },
+        {
+            "_id": "29",
+            "name": "Milkshake",
+            "recipe": "Creamy vanilla milkshake topped with whipped cream and a cherry.",
+            "image": "../src/assets/images/drinks.jpg",
+            "category": "Beverages",
+            "price": 4.49
+        },
+        {
+            "_id": "30",
+            "name": "Pizza Slice",
+            "recipe": "Classic cheese pizza slice with marinara sauce on a thin crust.",
+            "image": "../src/assets/images/pizza.jpg",
+            "category": "Popular",
+            "price": 2.99
+        },
+        {
+            "_id": "31",
+            "name": "Taco",
+            "recipe": "Soft or crispy taco shell filled with seasoned ground beef, lettuce, cheese, and salsa.",
+            "image": "../src/assets/images/tacos.jpg",
+            "category": "Mexican",
+            "price": 3.49
+        },
+        {
+            "_id": "32",
+            "name": "Burrito",
+            "recipe": "Flour tortilla filled with rice, beans, cheese, meat, and salsa.",
+            "image": "../src/assets/images/chicken.jpg",
+            "category": "Popular",
+            "price": 5.99
+        },
+        {
+            "_id": "33",
+            "name": "Nachos",
+            "recipe": "Crispy tortilla chips topped with melted cheese, jalapenos, sour cream, and guacamole.",
+            "image": "../src/assets/images/tacos.jpg",
+            "category": "Mexican",
+            "price": 4.99
+        },
+        {
+            "_id": "34",
+            "name": "Ice Cream Cone",
+            "recipe": "Classic vanilla ice cream in a sugar cone.",
+            "image": "../src/assets/images/dessert.jpg",
+            "category": "Desserts",
+            "price": 2.49
+        },
+        {
+            "_id": "35",
+            "name": "Chicken Tenders",
+            "recipe": "Breaded chicken tenderloins served with dipping sauce.",
+            "image": "../src/assets/images/fish.jpg",
+            "category": "Popular",
+            "price": 4.99
+        },
+        {
+            "_id": "36",
+            "name": "Fish Sandwich",
+            "recipe": "Battered fish fillet with lettuce, tartar sauce, and a slice of cheese on a bun.",
+            "image": "../src/assets/images/sandwich.jpg",
+            "category": "Popular",
+            "price": 6.49
+        },
+        {
+            "_id": "37",
+            "name": "Fish and Chips",
+            "recipe": "Crispy battered fish served with french fries and tartar sauce.",
+            "image": "../src/assets/images/fish.jpg",
+            "category": "Fish",
+            "price": 8.99
+        },
+        {
+            "_id": "38",
+            "name": "Chocolate Shake",
+            "recipe": "Rich chocolate milkshake topped with whipped cream and chocolate syrup.",
+            "image": "/../src/assets/images/dessert.jpg",
+            "category": "Popular",
+            "price": 4.49
+        },
+        {
+            "_id": "39",
+            "name": "Hamburger",
+            "recipe": "Juicy beef patty, lettuce, tomato, onion, pickles, ketchup, and mustard on a sesame seed bun.",
+            "image": "../src/assets/images/burger.jpg",
+            "category": "Burger",
+            "price": 4.99
+        },
+        {
+            "_id": "40",
+            "name": "Cheeseburger",
+            "recipe": "Same as hamburger with an additional slice of cheese.",
+            "image": "../src/assets/images/burger.jpg",
+            "category": "Burger",
+            "price": 5.49
+        },
+        {
+            "_id": "41",
+            "name": "Chicken Nuggets",
+            "recipe": "Bite-sized pieces of tender chicken breast, coated in seasoned breadcrumbs.",
+            "image": "../src/assets/images/chicken.jpg",
+            "category": "Chicken",
+            "price": 3.99
+        },
+        {
+            "_id": "42",
+            "name": "French Fries",
+            "recipe": "Crispy golden potato fries lightly seasoned with salt.",
+            "image": "../src/assets/images/sides.jpg",
+            "category": "Sides",
+            "price": 2.49
+        },
+        {
+            "_id": "43",
+            "name": "Chicken Sandwich",
+            "recipe": "Grilled or crispy chicken breast with lettuce, tomato, and mayo on a toasted bun.",
+            "image": "../src/assets/images/chicken.jpg",
+            "category": "Chicken",
+            "price": 5.99
+        },
+        {
+            "_id": "44",
+            "name": "BBQ Ribs",
+            "recipe": "Tender, slow-cooked pork ribs slathered in smoky BBQ sauce.",
+            "image": "../src/assets/images/ribs.jpg",
+            "category": "Specialty",
+            "price": 9.99
+        },
+        {
+            "_id": "45",
+            "name": "Grilled Cheese Sandwich",
+            "recipe": "Toasted bread with melted American cheese.",
+            "image": "../src/assets/images/sandwich.jpg",
+            "category": "Sandwich",
+            "price": 3.49
+        },
+        {
+            "_id": "46",
+            "name": "Hot Dog",
+            "recipe": "Juicy beef hot dog served in a soft bun with your choice of toppings.",
+            "image": "../src/assets/images/special.jpg",
+            "category": "Specialty",
+            "price": 3.99
+        },
+        {
+            "_id": "47",
+            "name": "Onion Rings",
+            "recipe": "Crispy battered onion rings, perfect for dipping.",
+            "image": "../src/assets/images/sides.jpg",
+            "category": "Sides",
+            "price": 2.99
+        },
+        {
+            "_id": "48",
+            "name": "Milkshake",
+            "recipe": "Creamy vanilla milkshake topped with whipped cream and a cherry.",
+            "image": "../src/assets/images/drinks.jpg",
+            "category": "Beverages",
+            "price": 4.49
+        },
+        {
+            "_id": "49",
+            "name": "Pizza Slice",
+            "recipe": "Classic cheese pizza slice with marinara sauce on a thin crust.",
+            "image": "../src/assets/images/pizza.jpg",
+            "category": "Popular",
+            "price": 2.99
+        },
+        {
+            "_id": "50",
+            "name": "Taco",
+            "recipe": "Soft or crispy taco shell filled with seasoned ground beef, lettuce, cheese, and salsa.",
+            "image": "../src/assets/images/tacos.jpg",
+            "category": "Mexican",
+            "price": 3.49
+        },
+        {
+            "_id": "51",
+            "name": "Burrito",
+            "recipe": "Flour tortilla filled with rice, beans, cheese, meat, and salsa.",
+            "image": "../src/assets/images/chicken.jpg",
+            "category": "Popular",
+            "price": 5.99
+        },
+        {
+            "_id": "52",
+            "name": "Nachos",
+            "recipe": "Crispy tortilla chips topped with melted cheese, jalapenos, sour cream, and guacamole.",
+            "image": "../src/assets/images/tacos.jpg",
+            "category": "Mexican",
+            "price": 4.99
+        },
+        {
+            "_id": "53",
+            "name": "Ice Cream Cone",
+            "recipe": "Classic vanilla ice cream in a sugar cone.",
+            "image": "../src/assets/images/dessert.jpg",
+            "category": "Desserts",
+            "price": 2.49
+        },
+        {
+            "_id": "54",
+            "name": "Chicken Tenders",
+            "recipe": "Breaded chicken tenderloins served with dipping sauce.",
+            "image": "../src/assets/images/fish.jpg",
+            "category": "Popular",
+            "price": 4.99
+        },
+        {
+            "_id": "55",
+            "name": "Fish Sandwich",
+            "recipe": "Battered fish fillet with lettuce, tartar sauce, and a slice of cheese on a bun.",
+            "image": "../src/assets/images/sandwich.jpg",
+            "category": "Popular",
+            "price": 6.49
+        },
+        {
+            "_id": "56",
+            "name": "Fish and Chips",
+            "recipe": "Crispy battered fish served with french fries and tartar sauce.",
+            "image": "../src/assets/images/fish.jpg",
+            "category": "Fish",
+            "price": 8.99
+        },
+        {
+            "_id": "57",
+            "name": "Chocolate Shake",
+            "recipe": "Rich chocolate milkshake topped with whipped cream and chocolate syrup.",
+            "image": "/../src/assets/images/dessert.jpg",
+            "category": "Popular",
+            "price": 4.49
+        }
+
+
+
+]
